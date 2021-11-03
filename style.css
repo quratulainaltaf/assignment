@@ -1,0 +1,63 @@
+.abc {
+    background-color: #f0e4e4;
+    height: 1190px;
+}
+
+.logo {
+    width: 37%;
+}
+.img {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: grey;
+}
+.cde {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fgh {
+    background-color: #D3D3D3;
+    height: 180px;
+    opacity: o.3;
+    
+}
+.rst{
+    background-color: white;
+    margin: 10px;
+}
+.ijk {
+    color: rgb(111, 117, 180);
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lmn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.opq {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #50609c;
+}
+.uvw {
+    width: 270px;
+    height: 280px;
+}
+.xyz {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+span {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+}
+.aaa {
+    color: rgb(111, 117, 180);
+}
